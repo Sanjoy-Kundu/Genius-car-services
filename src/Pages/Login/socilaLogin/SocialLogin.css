@@ -1,0 +1,27 @@
+.first-second {
+	display: flex;
+}
+
+.first-div {
+	width: 200px;
+	height: 2px;
+	background-color: black;
+}
+
+.first-second p {
+	margin-top: -11px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.second-div {
+	width: 200px;
+	height: 2px;
+	background-color: black;
+}
+
+.logo-img {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
